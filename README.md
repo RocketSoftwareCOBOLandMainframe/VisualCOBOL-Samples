@@ -6,17 +6,17 @@ An index of samples for Rocket® Visual COBOL® and Rocket® Enterprise Develope
 
 | Sample | Description |
 ---------|--------------
-| [COBOL](https://github.com/RocketSoftware/COBOL-Samples)                          | A collection of small native and managed COBOL samples.                           |
-| [Airport](https://github.com/RocketSoftware/airport-sample)                       | Sample repository for a COBOL application using ADIS and MFUNIT.                  |
-| [Book](https://github.com/RocketSoftware/Book-Sample)                             | Sample repository for a COBOL book repository application developed using vscode. |
-| [MFUnit](https://github.com/RocketSoftware/Rocket-Unit-Testing-Framework-Samples) | A collection of samples for the Rocket Unit Testing Framework.                    |
-| [Dialog System](https://github.com/RocketSoftware/DialogSystem-Samples)           | Samples for the Dialog System UI framework.                                       |
+| [COBOL](https://github.com/RocketSoftwareCOBOLandMainframe/COBOL-Samples)                          | A collection of small native and managed COBOL samples.                           |
+| [Airport](https://github.com/RocketSoftwareCOBOLandMainframe/airport-sample)                       | Sample repository for a COBOL application using ADIS and MFUNIT.                  |
+| [Book](https://github.com/RocketSoftwareCOBOLandMainframe/Book-Sample)                             | Sample repository for a COBOL book repository application developed using vscode. |
+| [MFUnit](https://github.com/RocketSoftwareCOBOLandMainframe/Rocket-Unit-Testing-Framework-Samples) | A collection of samples for the Rocket Unit Testing Framework.                    |
+| [Dialog System](https://github.com/RocketSoftwareCOBOLandMainframe/DialogSystem-Samples)           | Samples for the Dialog System UI framework.                                       |
 
 ## Enterprise Server Samples
 
 | Sample | Description |
 ---------|--------------
-| [Bank Demo](https://github.com/RocketSoftware/BankDemo)                           | A mainframe sample demonstrating CICS/JCL COBOL accessing data held in indexed (VSAM) files on disk, or in a PostgreSQL database. |
+| [Bank Demo](https://github.com/RocketSoftwareCOBOLandMainframe/BankDemo)                           | A mainframe sample demonstrating CICS/JCL COBOL accessing data held in indexed (VSAM) files on disk, or in a PostgreSQL database. |
 
 ## License
 
